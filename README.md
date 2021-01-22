@@ -1,1 +1,1 @@
-# statup-business
+# startup-business
